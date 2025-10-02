@@ -1,4 +1,4 @@
-### <div align="center">This is Ahsan, a Full Stack Developer 👨‍💻 working remotely since 2018 🚀</div> 
+### <div align="center">This is Ahsan, a Full Stack Developer 👨‍💻</div> 
 -----
   
 ## :technologist: About Me
